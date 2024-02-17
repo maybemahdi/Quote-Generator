@@ -75,7 +75,7 @@ body {
   color: white;
   border: 1px solid var(--clr-primary-10);
   padding: 0.2em 1em;
-  margin: 3em 0;
+  margin: 0 0 3em 0;
   border-radius: 4px;
   white-space: nowrap;
 }
