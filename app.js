@@ -149,11 +149,6 @@ const quoteArr = [
   },
   {
     quote:
-      "The strongest actions for a woman is to love herself, be herself and shine amongst those who never believed she could",
-    person: "Tolux001",
-  },
-  {
-    quote:
       "We don’t just sit around and wait for other people. We just make, and we do : It’s not about better time management. It’s about better life management",
     person: "Arlan Hamilton",
   },
